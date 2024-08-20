@@ -2,7 +2,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 locale                   : "kr"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Anroid Developing Log"
+title                    : "Android Developing Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kiwon7602"
