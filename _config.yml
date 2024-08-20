@@ -84,28 +84,19 @@ analytics:
 author:
   name             : "서기원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "한국기술교육대학교 4학년 \n 안드로이드 개발, Compose, Flutter을 공부하는 학생"
+  bio              : "한국기술교육대학교 4학년 <br> 안드로이드 개발, Compose, Flutter을 공부하는 학생"
   location         : "세종"
   email            : "seokw2240@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto: seokw2240@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/kiwon7602"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -200,7 +191,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
+paginate: 5 # amount of s to show
 paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
