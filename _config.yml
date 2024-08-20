@@ -81,21 +81,7 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-naver_site_verification  :
-yandex_site_verification :
-baidu_site_verification  :
 
-# Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -113,11 +99,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "서기원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "안드로이드 개발, Compose, Flutter을 공부하는 학생"
   location         : "Somewhere"
-  email            :
+  email            : "seokw2240@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
