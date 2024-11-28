@@ -14,14 +14,14 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Ki-won
 
 description: Stylish Jekyll Theme
 author:
   name: Seo Ki-won
   email: seokw2240@gmail.com
   github: https://github.com/kiwon7602
-  bio: Your stylish, minimalist theme!
+  bio: 수상할 정도로 용어 설명을 못하는 주니어 개발자 
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
