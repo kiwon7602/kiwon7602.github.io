@@ -4,6 +4,15 @@ tagline:
 ---
 
 {% for post in paginator.posts %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QYT9CL3F7L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QYT9CL3F7L');
+</script>
 
 <article class="home">
 
