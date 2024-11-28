@@ -6,7 +6,8 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: dbyll
-google_analytics: G-QYT9CL3F7L
+google_analytics:
+ ID: G-QYT9CL3F7L
 title: Ki-won 개발 일지
 
 defaults:
