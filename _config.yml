@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: Ki-won 개발 일지
 
 defaults:
   -
@@ -18,12 +18,9 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
+  name: Seo Ki-won
+  email: seokw2240@gmail.com
+  github: https://github.com/kiwon7602
   bio: Your stylish, minimalist theme!
   email_md5: 726351295ec82e145928582f595aa3aa
 
