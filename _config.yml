@@ -1,11 +1,12 @@
-name: 
-author: 
-url: 
+name: 개발 이모저모
+author: Ki_won
+url: https://kiwon7602.github.io
+resume_site: https://kiwon7602.github.io
 baseurl: 
-resume_site: 
-description: 
-github_username: 
-github: 
+description: 한국기술교육대학교 컴퓨터공학부 졸업  
+             Web, App, Server 이것저것 건드리는 기술 블로그
+github_username: kiwon7602
+github: https://github.com/kiwon7602
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -13,10 +14,10 @@ paginate_path: "/page/:num/"
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 markdown: kramdown
-comments :
-  gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+comments:
+  gitalk:
+    clientID: xxx
+    clientSecret: xxx
+    repo: kiwon7602.github.io
+    owner: kiwon7602
+    admin: kiwon7602
