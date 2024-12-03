@@ -2,7 +2,7 @@
 layout: post
 title: 첫글을 적어봅니다.
 date: 2024-12-03 13:36:00 +0800
-category: study
+category: tutorial
 thumbnail: /style/image/thumbnail.png
 icon: book
 ---
