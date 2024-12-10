@@ -3,7 +3,7 @@ layout: post
 title: 소규모 개발 간 서버 선택
 date: 2024-12-10 13:36:00 +0800
 category: development
-thumbnail: /style/image/thumbnail.png
+thumbnail: 
 icon: code
 ---
 
